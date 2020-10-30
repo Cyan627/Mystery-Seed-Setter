@@ -1,0 +1,7 @@
+C:\Program Files (x86)\Steam\steamapps\common\Bug Fables\BepInEx\plugins\Mystery-Seed-Setter.dll
+C:\Program Files (x86)\Steam\steamapps\common\Bug Fables\BepInEx\plugins\Mystery-Seed-Setter.pdb
+C:\Users\danth\source\repos\Mystery-Seed-Setter\Mystery-Seed-Setter\obj\Debug\Mystery-Seed-Setter.csproj.CoreCompileInputs.cache
+C:\Users\danth\source\repos\Mystery-Seed-Setter\Mystery-Seed-Setter\obj\Debug\Mystery-Seed-Setter.dll
+C:\Users\danth\source\repos\Mystery-Seed-Setter\Mystery-Seed-Setter\obj\Debug\Mystery-Seed-Setter.pdb
+C:\Users\danth\source\repos\Mystery-Seed-Setter\Mystery-Seed-Setter\obj\Debug\Mystery-Seed-Setter.csprojAssemblyReference.cache
+C:\Users\danth\source\repos\Mystery-Seed-Setter\Mystery-Seed-Setter\obj\Debug\Mystery-Seed-Setter.csproj.CopyComplete
